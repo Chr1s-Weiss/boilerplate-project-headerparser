@@ -21,7 +21,7 @@ app.get('/', function (req, res) {
 
 // your first API endpoint...
 app.get('/api/hello', function (req, res) {
-  res.json({ greeting: 'hello API Test' });
+  res.json({ greeting: 'hello API Test2' });
 });
 
 // listen for requests :)
